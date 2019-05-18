@@ -1,0 +1,31 @@
+Vi ønsker at det blir laget en presentasjon som vi går igjennom, feks. en powerpoint på noen slider.
+Den skal vise hvordan man har kommet fram til resultatet og hvordan det har blitt tenkt.
+Det har blitt satt av 30 min til å gå igjennom presentasjonen og det blir litt prat rundt det som blir presentert.
+Det er spesielt 3 og 4 som er relevant for presentasjonen.
+
+Så er det fint om man tar med all kode så den kan bli sett på.
+
+Du står fritt til å løse oppgaven som du vil. 
+La ved noen tips med "-" som kan hjelpe på vei, men man må ikke bruke de.
+Løs oppgavene på en enkel måte som vi klarer å skjønne.
+Lag mest mulig forståelig kode, forklaringer, figurer og presentasjon da ikke alle har samme bakgrunn. 
+
+Du har begrenset med data og mulighet for å sjekke opp ting så du må kanskje gjøre antagelser. 
+
+1) Skriv dataene til en database (ditt valg) med et pythonscript eller en python jupyter notebook
+2) Hvordan ser lønnsomme kunder ut? 
+	- Visualisering
+	- Korrelasjon
+	- Lineær regresjon eller andre gjennomsiktige metoder
+3) Hvordan ser kunder som øker lønnsomheten ut? Finn topp 100 kunder som kommer til å få økt lønnsomheten på siste tid.
+	- Segmentering eller clustering
+	- Prediksjon (besluttningstree, nevrale nett, lineær regresjon, ..)
+4) Lag 5 features (nye kolonner med data basert på de du har) i databasen ved bruk av SQL
+	- Lag, addisjon, avg, ..
+5) (frivillig) Har du noe du har laget tidligere som du kan bruke på disse dataene?
+
+Når dere har vært på intervjuet må dere slette dataene og mailen dere har vedlegget i.
+
+Det er to filer med data i.
+Den ene heter TABELL_1 og den andre TABELL_2. 
+Disse skal man bruke. I teorien kan man finne andre åpne datakilder, men det er ikke nødvendig.
